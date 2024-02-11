@@ -6,4 +6,4 @@ I'm well-versed in commercial game engines like Unity and Unreal, where my exper
 
 Feel free to explore my GitHub repositories to witness the convergence of my passion, skills, and creativity in the realm of game development.
 
-Website: https://ayush-mishra3.github.io/
+Website: https://ayushmishra333.github.io/
