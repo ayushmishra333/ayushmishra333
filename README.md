@@ -1,9 +1,11 @@
-﻿# Hello! I am Ayush.
+﻿# Welcome to my GitHub profile! I'm Ayush.
 
-My primary language is C++. I've built a solid foundation in object-oriented programming, allowing me to create organized and efficient code. When it comes to game development, I have a good grasp of game physics and 3D mathematics, which I use to breathe life into virtual worlds.
+A versatile Software Developer with a strong foundation in full-stack development and a keen eye for user experience design. My primary language is JavaScript, and I specialize in creating dynamic, high-performance web applications using React, Redux, and Node.js.
 
-I'm well-versed in commercial game engines like Unity and Unreal, where my expertise is growing steadily. Collaborating with these platforms, I'm driven to create seamless and captivating gameplay environments. As I continue to expand my horizons, I'm excited to contribute to the dynamic landscape of gaming by pushing the boundaries of interactive entertainment.
+With a deep understanding of object-oriented programming and modern development practices, I ensure my code is both organized and efficient. My expertise extends to integrating robust backend solutions with Firebase and MongoDB, optimizing application performance, and implementing CI/CD pipelines for streamlined deployments.
 
-Feel free to explore my GitHub repositories to witness the convergence of my passion, skills, and creativity in the realm of game development.
+I have a particular interest in game development, where I've built a solid foundation in Game physics and 3D mathematics, bringing virtual worlds to life using engines like Unity and Unreal. My projects often explore the intersection of creativity and technology, pushing the boundaries of interactive experiences.
+
+Feel free to explore my GitHub repositories to witness the convergence of my passion, skills, and creativity.
 
 Website: https://ayushmishra333.github.io/
