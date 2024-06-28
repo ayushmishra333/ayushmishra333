@@ -8,4 +8,4 @@ I have a particular interest in game development, where I've built a solid found
 
 Feel free to explore my GitHub repositories to witness the convergence of my passion, skills, and creativity.
 
-Website: portfoliox2-ayush.vercel.app
+Website: https://portfoliox2-ayush.vercel.app/
