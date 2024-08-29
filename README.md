@@ -8,7 +8,7 @@ I have a particular interest in game development, where I've built a solid found
 
 Feel free to explore my GitHub repositories to witness the convergence of my passion, skills, and creativity.
 
-Website: https://portfoliox2-ayush.vercel.app/
+Website: https://ayushmishra.co.uk/
 
 <img src="https://github.com/user-attachments/assets/f9002028-b8bf-467a-b5fc-dcd4df4602b0" width="120" height="120">
 
